@@ -1,6 +1,6 @@
 # Responsive Portfolio
 
-Link: https://las82.github.io/FEND-Portfolio/
+Link: https://lealsdev.github.io/FEND-Portfolio/
 
 ###### This project is part of the Udacity's Front End Nanodegree 
 ---
